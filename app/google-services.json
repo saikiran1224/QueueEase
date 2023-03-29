@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096511962233",
+    "project_id": "queueease",
+    "storage_bucket": "queueease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096511962233:android:ac67273de8f4fddda228a8",
+        "android_client_info": {
+          "package_name": "com.example.queueease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096511962233-ag81ttmh7turae5io47qnllfmf3f49e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.queueease",
+            "certificate_hash": "0c93be420e7672c00d3dc841398ac0fc042a0edb"
+          }
+        },
+        {
+          "client_id": "1096511962233-3fo8k6um2007folav3ts1ds5prkqvcnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJrv2dkNTWWRRSdSje4fTNEN5hITGeNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096511962233-3fo8k6um2007folav3ts1ds5prkqvcnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
